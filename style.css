@@ -83,3 +83,22 @@ section {
   color: #222;
   font-weight: bold;
 }
+
+/* adjustment for mobile screens */
+
+@media (max-width: 600px) {
+  #about {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  header {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  nav a {
+    margin-left: 0;
+    margin-right: 0.75rem;
+  }
+}
