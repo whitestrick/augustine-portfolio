@@ -18,3 +18,7 @@ View live site https://whitestrick.github.io/augustine-portfolio/
 - HTML5
 - CSS3 (Flexbox, media queries)
 - JavaScript (DOM manipulation, arrays, objects, loops)
+
+##  INstructions on how to Run Locally
+1. Clone the repo: `git clone git@github.com:whitestrick/augustine-portfolio.git`
+2. Open `index.html` in your browser (no build step needed)
