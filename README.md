@@ -13,3 +13,8 @@ View live site https://whitestrick.github.io/augustine-portfolio/
 - Project cards rendered dynamically from a JavaScript array of objects
 - Contact section with email and GitHub links
 - Mobile-responsive design
+
+## Technologies Used
+- HTML5
+- CSS3 (Flexbox, media queries)
+- JavaScript (DOM manipulation, arrays, objects, loops)
